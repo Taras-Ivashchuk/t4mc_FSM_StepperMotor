@@ -1,0 +1,28 @@
+# CCS build output
+**/Debug/
+**/Release/
+
+# CCS-generated project metadata
+.settings/
+.metadata/
+
+# CCS generated files
+*.launch
+*.log
+
+# Compiled objects and dependencies
+*.o
+*.d
+
+# CCS generated build files
+makefile
+objects.mk
+sources.mk
+subdir_rules.mk
+subdir_vars.mk
+ccsObjs.opt
+
+# Generated binaries / maps
+*.out
+*.map
+*.xml
